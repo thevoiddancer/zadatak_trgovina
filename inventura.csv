@@ -1,0 +1,139 @@
+;spol;tip;artikl;id;boja;cijena
+0;Men;Tops;T-shirt;44097;bijela;50
+1;Men;Tops;T-shirt;75055;zelena;36
+2;Men;Tops;T-shirt;64238;crna;50
+3;Men;Tops;T-shirt;16183;plava;37
+4;Men;Tops;Polo shirt;38304;crvena;46
+5;Men;Tops;Polo shirt;42823;zelena;50
+6;Men;Tops;Dress shirt;63706;zelena;33
+7;Men;Tops;Sweater;74586;crvena;45
+8;Men;Tops;Sweater;16422;crna;36
+9;Men;Tops;Sweater;29854;plava;34
+10;Men;Tops;Hoodie;94793;crvena;42
+11;Men;Tops;Hoodie;21367;zelena;42
+12;Men;Tops;Hoodie;25708;crna;38
+13;Men;Bottoms;Jean;49494;plava;38
+14;Men;Bottoms;Jean;90978;crna;48
+15;Men;Bottoms;Chino;37736;crvena;46
+16;Men;Bottoms;Chino;28245;bijela;35
+17;Men;Bottoms;Dress pant;99694;bijela;36
+18;Men;Bottoms;Dress pant;38712;crna;42
+19;Men;Bottoms;Dress pant;89818;zelena;36
+20;Men;Bottoms;Dress pant;33631;crvena;38
+21;Men;Bottoms;Short;62931;plava;33
+22;Men;Bottoms;Short;39305;zelena;30
+23;Men;Bottoms;Short;68220;crvena;31
+24;Men;Bottoms;Jogger;97975;zelena;42
+25;Men;Bottoms;Jogger;62439;plava;35
+26;Men;Outerwear;Jacket;81143;crvena;45
+27;Men;Outerwear;Jacket;54475;zelena;50
+28;Men;Outerwear;Jacket;57658;bijela;43
+29;Men;Outerwear;Blazer;43449;crvena;46
+30;Men;Outerwear;Blazer;45999;crna;37
+31;Men;Outerwear;Blazer;96026;zelena;45
+32;Men;Outerwear;Blazer;17573;plava;31
+33;Men;Outerwear;Coat;79724;plava;42
+34;Men;Outerwear;Coat;99419;crna;43
+35;Men;Outerwear;Coat;83477;zelena;45
+36;Men;Outerwear;Denim jacket;19429;zelena;46
+37;Men;Outerwear;Denim jacket;51292;plava;34
+38;Men;Outerwear;Denim jacket;71534;bijela;46
+39;Men;Footwear;Sneaker;94740;bijela;43
+40;Men;Footwear;Loafer;80635;plava;40
+41;Men;Footwear;Loafer;29633;crna;45
+42;Men;Footwear;Loafer;98099;crvena;37
+43;Men;Footwear;Dress shoe;11096;crvena;43
+44;Men;Footwear;Dress shoe;83414;crna;34
+45;Men;Footwear;Boot;96109;plava;35
+46;Men;Footwear;Boot;52364;bijela;49
+47;Men;Footwear;Boot;83594;crna;47
+48;Men;Footwear;Boot;70246;crvena;37
+49;Men;Footwear;Sandal;83526;bijela;31
+50;Men;Footwear;Sandal;55257;zelena;35
+51;Men;Footwear;Sandal;61646;plava;34
+52;Men;Footwear;Sandal;19601;crna;49
+53;Men;Accessories;Belt;92435;zelena;34
+54;Men;Accessories;Watch;85163;zelena;37
+55;Men;Accessories;Watch;40795;crna;41
+56;Men;Accessories;Watch;98445;bijela;42
+57;Men;Accessories;Watch;90423;crvena;37
+58;Men;Accessories;Tie;56713;bijela;33
+59;Men;Accessories;Hat;15922;crna;43
+60;Men;Accessories;Glove;10320;crna;49
+61;Men;Accessories;Glove;60232;zelena;33
+62;Men;Accessories;Glove;20101;plava;45
+63;Women;Tops;Blouse;27045;crvena;46
+64;Women;Tops;Blouse;62248;plava;33
+65;Women;Tops;Blouse;29983;zelena;50
+66;Women;Tops;Blouse;62744;crna;34
+67;Women;Tops;Tank top;53181;zelena;44
+68;Women;Tops;Tank top;24535;plava;32
+69;Women;Tops;Tank top;84010;bijela;33
+70;Women;Tops;Tank top;87118;crna;30
+71;Women;Tops;T-shirt;67996;bijela;31
+72;Women;Tops;T-shirt;93182;plava;36
+73;Women;Tops;T-shirt;22616;crvena;31
+74;Women;Tops;Sweater;57455;crna;31
+75;Women;Tops;Sweater;44140;bijela;31
+76;Women;Tops;Sweater;22975;plava;43
+77;Women;Tops;Sweater;32445;zelena;46
+78;Women;Tops;Hoodie;62226;crna;44
+79;Women;Bottoms;Jean;44219;crna;33
+80;Women;Bottoms;Jean;50609;bijela;31
+81;Women;Bottoms;Legging;85806;crvena;33
+82;Women;Bottoms;Legging;88353;zelena;49
+83;Women;Bottoms;Legging;13118;bijela;37
+84;Women;Bottoms;Skirt;59595;crvena;36
+85;Women;Bottoms;Skirt;23633;crna;35
+86;Women;Bottoms;Skirt;85629;bijela;32
+87;Women;Bottoms;Trouser;34561;plava;43
+88;Women;Bottoms;Trouser;13728;crna;44
+89;Women;Bottoms;Trouser;71380;zelena;48
+90;Women;Bottoms;Trouser;84449;crvena;31
+91;Women;Bottoms;Short;81499;crvena;47
+92;Women;Bottoms;Short;58691;plava;37
+93;Women;Bottoms;Short;89247;zelena;45
+94;Women;Dresses & Jumpsuits;Casual dress;42447;crvena;41
+95;Women;Dresses & Jumpsuits;Casual dress;15166;crna;33
+96;Women;Dresses & Jumpsuits;Evening gown;87364;crvena;31
+97;Women;Dresses & Jumpsuits;Evening gown;32320;zelena;34
+98;Women;Dresses & Jumpsuits;Jumpsuit;88935;plava;30
+99;Women;Dresses & Jumpsuits;Jumpsuit;20686;crvena;38
+100;Women;Dresses & Jumpsuits;Jumpsuit;58912;bijela;45
+101;Women;Dresses & Jumpsuits;Jumpsuit;54024;zelena;48
+102;Women;Dresses & Jumpsuits;Romper;70304;zelena;30
+103;Women;Dresses & Jumpsuits;Romper;74294;crvena;33
+104;Women;Dresses & Jumpsuits;Romper;83378;plava;38
+105;Women;Dresses & Jumpsuits;Romper;55391;bijela;47
+106;Women;Outerwear;Coat;17612;plava;32
+107;Women;Outerwear;Coat;89276;zelena;32
+108;Women;Outerwear;Jacket;86973;crvena;31
+109;Women;Outerwear;Jacket;45084;crna;38
+110;Women;Outerwear;Jacket;72434;zelena;46
+111;Women;Outerwear;Jacket;50393;bijela;35
+112;Women;Outerwear;Blazer;86242;crvena;40
+113;Women;Outerwear;Blazer;85623;crna;39
+114;Women;Outerwear;Trench coat;97038;crvena;30
+115;Women;Outerwear;Trench coat;31458;plava;41
+116;Women;Outerwear;Trench coat;53171;zelena;30
+117;Women;Outerwear;Trench coat;84551;crna;39
+118;Women;Footwear;Heel;98544;crna;30
+119;Women;Footwear;Heel;78865;zelena;41
+120;Women;Footwear;Heel;71483;crvena;44
+121;Women;Footwear;Flat;82644;crna;35
+122;Women;Footwear;Flat;33984;zelena;34
+123;Women;Footwear;Boot;98241;zelena;50
+124;Women;Footwear;Boot;55146;plava;35
+125;Women;Footwear;Sneaker;65139;bijela;33
+126;Women;Footwear;Sandal;40253;crvena;39
+127;Women;Footwear;Sandal;93431;bijela;45
+128;Women;Footwear;Sandal;99094;plava;41
+129;Women;Accessories;Handbag;29921;crvena;36
+130;Women;Accessories;Handbag;31795;crna;48
+131;Women;Accessories;Jewelry;54348;crvena;42
+132;Women;Accessories;Scarf;85918;crvena;31
+133;Women;Accessories;Scarf;32585;plava;46
+134;Women;Accessories;Scarf;43964;bijela;45
+135;Women;Accessories;Sunglass;54571;bijela;30
+136;Women;Accessories;Belt;68818;plava;37
+137;Women;Accessories;Belt;77967;crna;38

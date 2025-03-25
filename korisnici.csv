@@ -1,0 +1,101 @@
+;ime;spol;email;adresa;poštanski broj;grad;user id
+0;Jelena Akmačić;F;jelena.akmacic@zugec.hr;Rockefellerova 636;52958;Valpovo;45571
+1;Siniša Pamić;F;sinisa.pamic@prpic.biz;Jurjevska 417;45045;Buzet;32263
+2;Niko Orlović;F;orlovic031@zelic.org;Višnjičke 223;94528;Zlatar;69127
+3;Marija Šimunić;F;simunic066@net.hr;Donje Prekrižje 8;85606;Đurđevac;25105
+4;Aldo Matulin;F;matulin010@gmail.com;Medvedgradska 619;18944;Stari Grad;72723
+5;Albina Zubčić;M;albina.zubcic@globalnet.hr;Perivoj biskupa Stjepana II. 3c/6;26227;Korčula;77844
+6;Jadranka Malnar;F;malnar027@krzelj.hr;Kapucinske 8c/1;35710;Novska;52244
+7;Ivanka Lojen;M;ivanka.lojen@zagreb.hr;Svibovac 1c/8;70225;Delnice;96280
+8;Marijan Karagić;M;marijan.karagic@kos.com;Kamenita 9;42873;Hvar;85016
+9;Erik Kligl;F;erik.kligl@sever.biz;Lisinskoga 3c;96906;Opatija;25626
+10;Filip Maraš;M;maras027@gmail.com;Tuškanac 6;41364;Popovača;65053
+11;Jelena Ivandić;F;ivandic048@rebic.info;Mašekova 8c/8;39793;Pazin;70176
+12;Duje Horvatek;F;horvatek036@zg.t-com.hr;Mlinarska 4a/5;56687;Korčula;98849
+13;Luka Karlović;M;luka.karlovic@yahoo.com;Kamenita 8;00003;Osijek;98850
+14;Vesna Stojčević;M;stojcevic025@dragojevic.net;Golubovac 3c;79762;Bjelovar;84515
+15;Janko Koški;F;koski066@ukic.org;Šumski prečac 6c/8;84128;Buzet;68646
+16;Antonija Dabo;F;dabo052@zg.t-com.hr;Zvonarnička 038;00812;Metković;51704
+17;Andrea Vorkapić;F;andrea.vorkapic@cudic.hr;Ljubinkovac 4a/8;78742;Nin;69679
+18;Dragan Matokanović;M;dragan.matokanovic@mustapic.com.hr;Kamenita 3;07040;Bjelovar;88627
+19;Joso Stojanov;M;joso.stojanov@zagreb.hr;Draškovićeva 0c/2;13734;Nova Gradiška;34867
+20;Jadranka Sladonja;F;sladonja066@xnet.hr;Goljak 5b/8;43592;Hrvatska Kostajnica;46647
+21;Jozo Modrić;F;modric082@zg.t-com.hr;Krležin gvozd 0c/0;64658;Delnice;25144
+22;Draga Kolega;M;draga.kolega@radocaj.com.hr;Svibovac 5b/7;82111;Pula;79928
+23;Nina Hadrović;F;nina.hadrovic@globalnet.hr;Splavnica 62;33516;Crikvenica;56890
+24;Dino Andrijašević;F;andrijasevic084@trgovcic.biz;Jagodnjak 3c/2;20789;Pregrada;76345
+25;Maja Kramarić;M;maja.kramaric@beletic.com.hr;Petrova 761;54110;Glina;89148
+26;Iva Lorencin;F;lorencin065@crnekovic.com.hr;Ksaver 0c/4;43789;Gospić;56381
+27;Vedran Kovaček;F;vedran.kovacek@orsulic.com;Mihaljevac 3a;11641;Novalja;94270
+28;Željko Mihaljević;F;mihaljevic093@golubic.net;Mlinske 60;79643;Drniš;29250
+29;Mihael Petek;F;petek015@net.hr;Ilica 436;13190;Obrovac;25668
+30;Ruža Stipanović;F;stipanovic070@net.hr;Kraljevec II. 0c;60520;Opuzen;80454
+31;Andrija Načinović;M;nacinovic057@yahoo.com;Lisinskoga 0c/0;62426;Čazma;36429
+32;Zvonko Bičak;M;bicak062@globalnet.hr;Mirogojska 9c;78269;Kutina;35406
+33;Dalibor Lukšić;F;luksic055@inet.hr;Tošovac 2c/6;93694;Klanjec;60495
+34;Roko Risek;M;roko.risek@sibalic.com.hr;Svibovac 02;02421;Vrgorac;61517
+35;Nikolina Solomun;F;solomun029@vip.hr;Bučarova 95;59256;Zabok;56407
+36;Boris Zmaić;M;zmaic090@situm.net;Kaptol 6a;76015;Karlovac;32861
+37;Ruža Lešković;M;leskovic003@prskalo.hr;Bosanska 4;88677;Solin;73309
+38;Marta Špralja;M;spralja046@kokoric.org;Vijenac 8b;84413;Našice;28766
+39;Stjepan Poljak;F;stjepan.poljak@zg.t-com.hr;Jagodnjak 5c/5;49896;Novska;24161
+40;Ivka Cukon;M;ivka.cukon@inet.hr;Arnoldova 689;16973;Čakovec;56930
+41;Vesna Jelić;M;jelic073@brezjan.com.hr;Streljačka 85;28328;Lipik;22114
+42;Ivica Hrabar;F;hrabar075@net.hr;Dolac 1a/5;59697;Dubrovnik;24682
+43;Marija Lešković;F;marija.leskovic@dabo.com;Mala 8a;72493;Križevci;74348
+44;Vladimir Rijetković;F;rijetkovic098@net.hr;Davor 8;24259;Split;91756
+45;Valentina Magić;F;valentina.magic@t.ht.hr;Šilobodov put 0b;22099;Bjelovar;20078
+46;Davor Jovanovac;M;jovanovac061@gmail.com;Šalata 82;85869;Rovinj;83567
+47;Nikša Kunac;M;kunac025@hotmail.com;Ilica 5b/4;03956;Vrgorac;24689
+48;Kristina Merkaš;F;kristina.merkas@xnet.hr;Orlovac 6c/7;68140;Duga Resa;18036
+49;Matea Grgurovac;F;grgurovac059@vojkovic.hr;Remetska 9b/5;64465;Karlovac;76930
+50;Julijana Priselac;M;julijana.priselac@inet.hr;Nemetova 0a;85083;Zaprešić;64644
+51;Jele Tomičić;M;tomicic036@lescic.hr;Rikardove 3c/7;60565;Pula;98438
+52;Ika Harapin;M;ika.harapin@yahoo.hr;Dvoranski prečac 2a/1;99833;Vrlika;21127
+53;Petar Pozder;F;petar.pozder@turudic.net;Kraljevečki ogranak 0b/3;58511;Buje;79496
+54;Lidija Ciganović;F;ciganovic065@hotmail.com;Donje Prekrižje 5c/7;24046;Otočac;26250
+55;Iva Duvančić;F;iva.duvancic@inet.hr;Dolac 05;69677;Ogulin;64146
+56;Sandra Ribić;F;sandra.ribic@yahoo.hr;Zamenhofova 2b/0;25087;Ilok;42643
+57;Andrija Polović;F;polovic025@dragojevic.com;Streljačka 31;89282;Komiža;89237
+58;Laura Bobanović;M;laura.bobanovic@yahoo.hr;Mala 437;47269;Novi Marof;94358
+59;Marijana Semialjac;M;marijana.semialjac@brlek.biz;Šestinski vrh 7a;25096;Nin;95897
+60;Marijan Semialjac;F;semialjac075@marinovic.com.hr;Jurišićeva 726;20082;Pag;43675
+61;Elvis Bungić;M;bungic083@kolic.hr;Lisinskoga 7c/8;39740;Umag;82587
+62;Sara Kopjar;M;sara.kopjar@zagreb.hr;Podgaj 66;77770;Trilj;31903
+63;Sanja Pajur;F;sanja.pajur@gmail.com;Krležin gvozd 2c/1;05658;Sisak;90272
+64;Željka Dragičević;F;dragicevic023@zagreb.hr;Rockefellerova 44;26376;Knin;71848
+65;Nenad Ilijić;M;ilijic041@yahoo.hr;Lobmayerove 4b/7;73518;Popovača;74409
+66;Barbara Priselac;M;barbara.priselac@pavkovic.net;Kamenjak 5a;69100;Slunj;60588
+67;Željko Zelić;M;zeljko.zelic@amidzic.com.hr;Goljačke 209;86888;Varaždin;20653
+68;Đurđica Zeba;M;zeba080@t.ht.hr;Svibovac 4b/6;57676;Drniš;89266
+69;Duje Pečur;M;pecur033@kosanovic.com;Harmica 7b;24056;Pakrac;54451
+70;Željko Kovačić;M;kovacic093@turk.com.hr;Javorovac 566;03950;Belišće;45755
+71;Zora Roso;F;roso081@zg.t-com.hr;Petrova 3b/1;73457;Mali Lošinj;82623
+72;Julijana Ilinović;M;ilinovic047@kevo.hr;Kraljevec 0c;15556;Dugo Selo;10432
+73;Ivan Kovačević;M;kovacevic020@halambek.biz;Jurjevska 8c/6;46703;Senj;25280
+74;Ruža Belošević;F;belosevic097@zg.t-com.hr;Mlinovi 2b/3;84886;Osijek;12994
+75;Katica Seničić;M;senicic002@zg.t-com.hr;Cmrok 9b;50474;Korčula;18630
+76;Domagoj Mustač;F;domagoj.mustac@yahoo.com;Mihaljevac 1;47140;Opuzen;32461
+77;Matej Novak;F;novak062@yahoo.hr;Jezuitski trg 1a/0;92089;Šibenik;79060
+78;Davor Filar;F;filar046@babic.info;Splavnica 72;84060;Obrovac;19157
+79;Manda Vižintin;F;vizintin016@zivic.org;Goljačke 6c;98530;Hrvatska Kostajnica;88277
+80;Ljiljana Hrženjak;M;hrzenjak002@zebec.com;Klesarski put 1a;27797;Garešnica;94423
+81;Marijan Mihalić;M;mihalic032@zg.t-com.hr;Dubravkin 6c;98040;Split;89821
+82;Ana Bebić;M;bebic055@zg.t-com.hr;Kamenjak 3a/3;97521;Slatina;70365
+83;Dominik Lelas;F;lelas073@hecimovic.net;Kraljevec II. 2b;13999;Krk;93923
+84;Štefica Miličić;M;milicic043@yahoo.com;Kurelčeva 2a/1;20726;Mali Lošinj;60643
+85;Josipa Bingula;F;josipa.bingula@hotmail.com;Medvedgradska 4a/4;21133;Orahovica;64744
+86;Vladimir Kauzlarić;M;vladimir.kauzlaric@brandic.biz;Tuškanac 4b/1;34273;Novska;88300
+87;Joško Turk;F;josko.turk@brajkovic.hr;Horvatovac 8b;74585;Virovitica;84206
+88;Dušan Ivančan;F;ivancan098@milas.hr;Kaptol 7b;83717;Popovača;27887
+89;Elizabeta Forjan;F;forjan068@triplat.hr;Dolac 0a/5;83778;Jastrebarsko;66811
+90;Dalibor Božičević;F;dalibor.bozicevic@strbac.net;Šilobodov put 6b/6;88780;Samobor;30972
+91;Denis Čiš;M;denis.cis@xnet.hr;Opatovina 3b;46221;Duga Resa;58107
+92;Jana Kos;M;jana.kos@rojnic.org;Podgaj 8;53564;Grubišno Polje;24319
+93;Milena Kraljević;M;kraljevic083@kalazic.hr;Glogovac 5b/2;80988;Križevci;97030
+94;Toni Pozder;F;pozder007@rahija.biz;Orlovac 8a;05054;Makarska;95494
+95;Igor Jurković;F;igor.jurkovic@cukon.org;Gupčeva zvijezda 298;53598;Pazin;11534
+96;Hana Kraljić;F;kraljic023@pesic.info;Bosanska 8;30254;Novi Marof;34575
+97;Renata Karamarko;M;renata.karamarko@popovic.com;Jurišićeva 7c;74854;Rab;75539
+98;Nina Strinavić;F;nina.strinavic@zgorelec.org;Kapucinske 29;03574;Solin;98068
+99;Nataša Vugdelija;M;vugdelija016@dobric.org;Orlovac 5a;33323;Skradin;97045
